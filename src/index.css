@@ -1,0 +1,57 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  color: #2B283A;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.banner--content {
+  background-color: #F55A5A;
+  color: #fff;
+  text-align: center;
+  padding: 30px;
+  font-size: 20px;
+}
+
+.banner--content p {
+  margin: 0px;
+}
+
+.card--content {
+  margin: 60px;
+  display: flex;
+  align-items: center;
+}
+
+.card-detail {
+  margin: 30px;
+}
+
+.card-detail h2 {
+  margin: 0px;
+  margin-top: 10px;
+  font-weight: 600;
+}
+
+.card-detail h5 {
+  font-weight: 500;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.location--detail a {
+  color: #918E9B;
+  font-size: 14px;
+}
+
+.location--detail span {
+  letter-spacing: 2px;
+}
+
+.location--detail i {
+  color: #F55A5A;
+}
